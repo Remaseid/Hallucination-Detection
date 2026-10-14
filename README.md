@@ -80,6 +80,8 @@ Hallucination-Detection/
 │
 └── presentation/
 
+```text
+
 ## Evaluation Metrics
 
 The machine learning models will be evaluated using:
@@ -104,3 +106,4 @@ The machine learning models will be evaluated using:
 **IT461 - Practical Machine Learning**  
 College of Computer and Information Sciences  
 King Saud University
+
