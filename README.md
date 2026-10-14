@@ -79,3 +79,28 @@ Hallucination-Detection/
 ├── report/
 │
 └── presentation/
+
+## Evaluation Metrics
+
+The machine learning models will be evaluated using:
+
+- Accuracy
+- Precision
+- Recall
+- F1-score
+
+## Team Members
+
+- **Aisha Fahad Alonizy** - 445200424
+- **Remas Eid Almutairi** - 445200445
+- **Dalal Ghumlas AlGhumlas** - 445200220
+
+## Supervisor
+
+**Dr. Afshan Jafari**
+
+## Course
+
+**IT461 - Practical Machine Learning**  
+College of Computer and Information Sciences  
+King Saud University
