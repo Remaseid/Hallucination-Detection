@@ -60,7 +60,6 @@ The training and testing sets are also checked to ensure there is no question ov
 Hallucination-Detection/
 │
 ├── README.md
-│
 ├── requirements.txt
 ├── .gitignore
 │
@@ -79,8 +78,7 @@ Hallucination-Detection/
 ├── report/
 │
 └── presentation/
-
-```text
+```
 
 ## Evaluation Metrics
 
@@ -106,4 +104,3 @@ The machine learning models will be evaluated using:
 **IT461 - Practical Machine Learning**  
 College of Computer and Information Sciences  
 King Saud University
-
