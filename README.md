@@ -63,23 +63,27 @@ Hallucination-Detection/
 ├── requirements.txt
 ├── .gitignore
 │
-├── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_model_training.ipynb
-│   └── 03_evaluation.ipynb
-│
 ├── data/
-│   └── README.md
+│
+├── notebooks/
+│   ├── .gitignore
+│   │
+│   ├── data_preprocess/
+│   │   ├── .gitignore
+│   │   ├── IT461_Hallucination_Data_Preprocessing.ipynb
+│   │   └── qa_data.json
+│   │
+│   └── logistic_regression/
+│       ├── .gitignore
+│       ├── Logistic_Regression.ipynb
+│       └── best_logistic_regression_model.pkl
 │
 ├── results/
-│   ├── figures/
-│   └── tables/
 │
 ├── report/
 │
 └── presentation/
 ```
-
 ## Evaluation Metrics
 
 The machine learning models will be evaluated using:
